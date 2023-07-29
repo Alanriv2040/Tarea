@@ -1,0 +1,28 @@
+body {
+	background-color: #eee;
+}
+
+h1 {
+	color: grey;
+	background-color: aquamarine;
+	border-style: solid;
+	border-color: darkcyan;
+	border-radius: 6px;
+	text-align: center;
+	font-size: 60px;
+}
+
+.messi1 {
+	color: black;
+	font-size: 25px;
+}
+
+#messi2 {
+	color: rgb(53, 53, 53);
+	font-size: 26px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 30px;
+}
